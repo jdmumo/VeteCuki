@@ -1,6 +1,134 @@
-i {
-    display: inline-block;
-    content: "vbhgfgh";
-    background-size: 50px 50px;
-    color: black;
+/* COLORES: */
+:root {
+    --colorPri: #a0376b ;
+    --colorSec:  #74b8b8 ;
+    --colorSec2:  #85c2c2 ;
+    --colorFondo:  #ecebea  ;
+    --colorEnf:  #da3965 ;
+    --colorEnf2: #FFCF56;
+    --colorEnf3: #f8971d;
+    --colorDesac:  #b2bebd ;
+    --colorFuentePri: rgb(255, 255, 255);
+    --colorFuenteSec: #da3965;
+}
+
+/* VISUALIZAR CAJAS: */
+
+.contenedor {
+    border: 1px solid transparent;
+}
+.fila {
+    border: 1px solid transparent;
+}
+.columna {
+    border: 1px solid transparent;
+}
+.navbar 1
+    border: 1px solid transparent;
+}
+.nav 1
+    border: 1px solid transparent;
+}
+.nav-item 1
+    border: 1px solid transparent;
+}
+
+/* HEADER */
+.fila {
+    margin: 0;
+}
+#logo {
+    max-width: 100px;
+    max-height: 100%;
+    display: inline;
+    margin: 15px;
+    padding: 0;
+    size: auto;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+    display: inline;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: var(--colorFuentePri);
+}
+
+header {
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+}
+.cont-header {
+    background-color: var(--colorPri);
+}
+
+/* BODY: */
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--colorFondo);
+}
+
+/* NAVBAR: */
+.cont-nav {
+    background-color: var(--colorSec);
+}
+.nav-item {
+    margin: auto 10px;
+    background-color: var(--colorSec2);
+    border-radius: 10px;
+}
+.nav a{
+    color: var(--colorFuentePri);
+    border-radius: 10px;
+}
+.navbar a:hover {
+    background-color: var(--colorEnf3);
+    border-radius: 10px;
+    color: var(--colorFuentePri);
+}
+
+/*NOSOTROS: */
+#nosotros p {
+    padding: 20px 15px;
+}
+
+/* SERVICIOS: */
+h2 {
+    text-decoration: underline var(--colorSec);
+    margin-bottom: 25px;
+}
+#servicios p {
+    padding: 20px 15px;
+}
+
+/*CONTACTO: */
+
+/* FOOTER: */
+footer {
+    background-color: var(--colorEnf);
+}
+.margin-top-20 {
+    margin-top: 20px;
+}
+#contacto {
+    height: 180px;
+}
+#contacto li{
+    background-color: var(--colorEnf);
+    color: var(--colorFondo);
+    font-weight: bold;
+}
+#contacto a{
+    color: var(--colorFondo);
+    text-decoration: none;
+}
+#contacto a:hover{
+    color:var(--colorSec2)
+}
+.cont-copy {
+    background-color: var(--colorDesac);
+    color: rgb(80, 80, 80);
 }
