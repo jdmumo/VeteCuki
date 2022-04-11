@@ -1,4 +1,4 @@
-/* COLORES: */
+/*5ES: */
 :root {
     --colorPri: #a0376b ;
     --colorSec:  #74b8b8 ;
@@ -76,7 +76,7 @@ body {
     background-color: var(--colorSec);
 }
 .nav-item {
-    margin: auto 10px;
+    margin: auto 5px;
     background-color: var(--colorSec2);
     border-radius: 10px;
 }
