@@ -77,6 +77,7 @@ body {
 }
 .nav-item {
     margin: 0px 5px;
+    padding: auto 3px;
     background-color: var(--colorSec2);
     border-radius: 10px;
 }
