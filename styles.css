@@ -1,4 +1,4 @@
-/*5ES: */
+/*VARIABLES: */
 :root {
     --colorPri: #a0376b ;
     --colorSec:  #74b8b8 ;
@@ -33,10 +33,6 @@
     border: 1px solid transparent;
 }
 */
-/* HEADER */
-.fila {
-    margin: 0;
-}
 #logo {
     max-width: 100px;
     max-height: 100%;
@@ -69,23 +65,36 @@ body {
     background-color: var(--colorFondo);
 }
 
-/* NAVBAR: *//*
-.cont-nav {
+
+
+/* NAVBAR: */
+.navbar a:hover {
+    background-color: var(--colorEnf3);
+    border-radius: 10px;
+    color: var(--colorFuentePri);
+}
+.nav-link{
+    border-radius: 10px;
+}
+/*
+#navegador {
     background-color: var(--colorSec);
 }
+
 .nav-item {
-    background-color: var(--colorSec2);
     border-radius: 10px;
     margin-right: 15px;
 }
-.nav a{
-    color: var(--colorFuentePri);
+.nav-link{
     border-radius: 10px;
 }
 .navbar a:hover {
     background-color: var(--colorEnf3);
     border-radius: 10px;
     color: var(--colorFuentePri);
+}
+.cont-nav {
+    background-color: var(--colorSec);
 }
 */
 /*NOSOTROS: */
