@@ -76,7 +76,7 @@ body {
 .nav-item {
     background-color: var(--colorSec2);
     border-radius: 10px;
-    margin-right: 10px;
+    margin-right: 15px;
 }
 .nav a{
     color: var(--colorFuentePri);
