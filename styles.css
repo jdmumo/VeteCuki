@@ -13,9 +13,9 @@
 }
 
 /* VISUALIZAR CAJAS: */
-
+/*
 .contenedor {
-    border: 1px solid transparent;
+    border: 1px solid rgb(240, 240, 240);
 }
 .fila {
     border: 1px solid transparent;
@@ -32,7 +32,7 @@
 .nav-item {
     border: 1px solid transparent;
 }
-
+*/
 /* HEADER */
 .fila {
     margin: 0;
