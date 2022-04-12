@@ -76,8 +76,6 @@ body {
     background-color: var(--colorSec);
 }
 .nav-item {
-    margin: 0px;
-    padding: 0px;
     background-color: var(--colorSec2);
     border-radius: 10px;
 }
