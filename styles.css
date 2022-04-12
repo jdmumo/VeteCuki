@@ -1,4 +1,4 @@
-/* COLORES: */
+/*5ES: */
 :root {
     --colorPri: #a0376b ;
     --colorSec:  #74b8b8 ;
@@ -65,8 +65,6 @@ header {
 
 /* BODY: */
 body {
-    margin: 0px;
-    padding: 0px;
     font-family: 'Roboto', sans-serif;
     background-color: var(--colorFondo);
 }
@@ -76,7 +74,6 @@ body {
     background-color: var(--colorSec);
 }
 .nav-item {
-    margin: auto 10px;
     background-color: var(--colorSec2);
     border-radius: 10px;
 }
