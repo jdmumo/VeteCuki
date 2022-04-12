@@ -15,22 +15,22 @@
 /* VISUALIZAR CAJAS: */
 
 .contenedor {
-    border: 1px solid transparent;
+    border: 1px solid green;
 }
 .fila {
-    border: 1px solid transparent;
+    border: 1px solid red;
 }
 .columna {
-    border: 1px solid transparent;
+    border: 1px solid blue;
 }
-.navbar 1
-    border: 1px solid transparent;
+.navbar {
+    border: 1px solid rgb(255, 0, 221);
 }
-.nav 1
-    border: 1px solid transparent;
+.nav {
+    border: 1px solid rgb(140, 0, 255);
 }
-.nav-item 1
-    border: 1px solid transparent;
+.nav-item {
+    border: 1px solid rgb(55, 0, 255);
 }
 
 /* HEADER */

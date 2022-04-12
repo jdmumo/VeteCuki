@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html class="" lang="es"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Porfolio José Mumoli</title>
+	<link rel="shortcut icon" href="file:///C:/Users/Otros/Desktop/devportfolio/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="file:///C:/Users/Otros/Desktop/devportfolio/favicon.ico" type="image/x-icon">
+    <link href="Porfolio%20Jos%C3%A9%20Mumoli_archivos/css.css" rel="stylesheet">
+    <link rel="stylesheet" href="Porfolio%20Jos%C3%A9%20Mumoli_archivos/font-awesome.css">
+    <link href="Porfolio%20Jos%C3%A9%20Mumoli_archivos/bootstrap.css" rel="stylesheet">
+    <link href="Porfolio%20Jos%C3%A9%20Mumoli_archivos/styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="Porfolio%20Jos%C3%A9%20Mumoli_archivos/css2.css" rel="stylesheet"> 
+</head>
+
+<body>
+    <div id="mobile-menu-open" class="shadow-large">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <!-- End #mobile-menu-toggle -->
+    <header>
+        <div id="mobile-menu-close">
+            <span>Cerrar</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <ul id="menu" class="shadow">
+            <li>
+                <a href="#about"><b>Acerca de</b></a>
+            </li>
+            <li>
+                <a href="#experience"><b>Experiencia</b></a>
+            </li>
+            <li>
+                <a href="#education"><b>Educación</b></a>
+            </li>
+            <li>
+                <a href="#projects"><b>Proyectos</b></a>
+            </li>
+            <li>
+                <a href="#skills"><b>Habilidades</b></a>
+            </li>
+            <li>
+                <a href="#contact"><b>Contacto</b></a>
+            </li>
+        </ul>
+    </header>
+    <!-- End header -->
+
+    <div id="lead">
+        <div id="lead-content">
+            <h1>José Damián Mumoli</h1>
+            <h2>Técnico en computación</h2>
+            <a href="#" download="" class="btn-rounded-white">Descargar CV</a>
+        </div>
+        <!-- End #lead-content -->
+
+        <div id="lead-overlay"></div>
+
+        <div id="lead-down">
+            <span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+            </span>
+        </div>
+        <!-- End #lead-down -->
+    </div>
+    <!-- End #lead -->
+
+    <div id="about">
+        <div class="container">
+            <div id="acerca-de">
+                <h2 class="heading">Acerca de mí</h2>        
+            </div>
+            <div class="row">
+                
+                <div class="col-md-3">
+                    <img src="Porfolio%20Jos%C3%A9%20Mumoli_archivos/FotoPerfil.jpg" class="shadow-large">
+                </div>
+                <div class="col-md-9 div-perfil">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur 
+adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. 
+Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce 
+eget efficitur libero. Morbi dapibus porta quam laoreet placerat. Donec
+                        eu vehicula neque. Donec viverra lorem nunc, 
+tempus euismod eros sollicitudin ut. Quisque et tincidunt libero. Donec 
+id pharetra justo. Proin euismod lacinia dolor, eu scelerisque justo 
+tempus pharetra. Vivamus nunc justo, finibus
+                        ut nisl sed, euismod rhoncus nulla. Proin sed 
+magna egestas, egestas ante et, congue eros. In consequat, mauris 
+dapibus tincidunt suscipit, ex libero aliquet diam, at maximus risus 
+enim non leo.
+                    </p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <!-- End #about -->
+
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Experiencia</h2>
+        <div id="experience-timeline">
+            <div class="vtimeline-point"><div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div><div class="vtimeline-block"><span class="vtimeline-date">Diciembre 2009 – Diciembre 2010</span><div data-date="Diciembre 2009 – Diciembre 2010" class="vtimeline-content">
+                <h3>Adoos.com</h3>
+                <h4>Internet</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut 
+tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget 
+efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div></div></div>
+
+            <div class="vtimeline-point"><div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div><div class="vtimeline-block"><span class="vtimeline-date">Enero 2011 – Diciembre 2011</span><div data-date="Enero 2011 – Diciembre 2011" class="vtimeline-content">
+                <h3>Rodio Consulting</h3>
+                <h4>Soporte técnico</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut 
+tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget 
+efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div></div></div>
+
+            <div class="vtimeline-point"><div class="vtimeline-icon"><i class="fa fa-map-marker"></i></div><div class="vtimeline-block"><span class="vtimeline-date">Enero 2021 – Agosto 2021</span><div data-date="Enero 2021 – Agosto 2021" class="vtimeline-content">
+                <h3>Fábrica Devilviani.INC</h3>
+                <h4>Operario</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut 
+tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget 
+efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div></div></div>
+        </div>
+    </div>
+    <!-- End #experience -->
+
+    <div id="education">
+        <h2 class="heading">Educación</h2>
+        <div class="education-block">
+            <h3>Secundaria ET N°37 DE 11</h3>
+            <span class="education-date">Marzo 2000 - Diciembre 2009</span>
+            <h4>Técnico en computación</h4>
+            <p>
+                Escuela técnica en Capital Federal.
+            </p>
+        </div>
+        <!-- End .education-block -->
+
+        <div class="education-block">
+            <h3>Argentina Programa</h3>
+            <span class="education-date">Marzo 2021 - Abril 2021</span>
+            <h4>Programador</h4>
+            <p>
+                Aprendí Gobstones, JavaScript y Ruby.
+            </p>
+        </div>
+        <!-- End .education-block -->
+    </div>
+    <!-- End #education -->
+
+    <div id="projects" class="background-alt">
+        <h2 class="heading">Proyectos</h2>
+        <div class="container">
+            <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="Porfolio%20Jos%C3%A9%20Mumoli_archivos/project.jpg">
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Veterinaria Cuki</h3>
+                        <p>
+                            Página web de prática para una veterinaria. 
+                        </p>
+                        <p>
+                            https://jdmumo.github.io/VeteCuki/
+                        </p>
+                        <a href="https://jdmumo.github.io/VeteCuki/">Ver el proyecto</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+            </div>
+        </div>
+    </div>
+    <!-- End #projects -->
+
+    <div id="skills">
+        <h2 class="heading">Habilidades</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>Ruby</li>
+            <li>C#</li>
+            <li>C++</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>SQL Server</li>
+            <li>PHP</li>
+        </ul>
+    </div>
+    <!-- End #skills -->
+
+    <div id="contact">
+        <h2>Contacto</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/email@email.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website">
+                <input type="email" name="_replyto" placeholder="Tu e-mail." required="">
+                <textarea name="message" placeholder="Tu mensaje." required=""></textarea>
+                <button type="submit">Envíar</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 copyright">
+                    <p>
+                        Copyright © <span id="current-year">2022</span> José Damián Mumoli
+                    </p>
+                </div>
+                <div class="col-sm-2 top">
+                    <span id="to-top">
+                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                    </span>
+                </div>
+                <div class="col-sm-5 social">
+                    <ul>
+                        <li>
+                            <a href="https://github.com/jdmumo" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://stackblitz.com/@jdmumo" target="_blank"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://plus.google.com/" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer -->
+
+    <script src="Porfolio%20Jos%C3%A9%20Mumoli_archivos/jquery.js"></script>
+    <script src="Porfolio%20Jos%C3%A9%20Mumoli_archivos/scripts.js"></script>
+
+
+
+</body></html>
